@@ -1,0 +1,1 @@
+ C:\\SOCS\\WEB_PROG\\BREADING\\USECASE\\stunting\\FLUTTER\\frontend\\.dart_tool\\flutter_build\\7aa16a72a01d0c1c3dcae5a264fc37b7\\dart_build_result.json: 
